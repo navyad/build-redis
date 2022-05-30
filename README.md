@@ -4,7 +4,7 @@
 
 ## stages
 - [x] Bind to a port
-- [] Respond to PING
+- [x] Respond to PING
 - [] Respond to multiple PINGs
 - [] Handle concurrent clients
 - [] Implement the ECHO command
